@@ -1,0 +1,35 @@
+Title: Album1
+Type: POP
+Total Running time: 12
+File size: 0
+Average rating: 4.0
+Track title: A Night at the Opera
+Artist: Queen
+Date: Wed Oct 18 14:50:39 CST 2023
+Running time: 0
+Rating: 4
+Location: 英国
+File Size: 0
+Guest Artists: [li sa]
+Band Members: [yue wen, name1, name2, member1]
+Play Count: 1497
+Track title: Someone Like You
+Artist: yue wen
+Date: Wed Oct 18 14:50:39 CST 2023
+Running time: 0
+Rating: 5
+Location: 英国
+File Size: 0
+Guest Artists: [li sa]
+Band Members: [yue wen, name1, li hua]
+Play Count: 8809
+Track title: Shape of You
+Artist: yue wen
+Date: Wed Oct 18 14:50:39 CST 2023
+Running time: 0
+Rating: 3
+Location: 英国
+File Size: 0
+Guest Artists: [li sa]
+Band Members: [123, name1, li hua]
+Play Count: 1320
